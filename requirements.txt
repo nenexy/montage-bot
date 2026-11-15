@@ -1,0 +1,5 @@
+aiogram>=3.20
+python-dotenv>=1.0
+imageio-ffmpeg>=0.5
+faster-whisper>=1.1
+numpy

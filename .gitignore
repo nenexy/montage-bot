@@ -1,0 +1,12 @@
+.venv/
+.env
+data/
+test_media/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+otklik-fl.md
+assets/music/demo_pad.mp3
+assets/sfx/whoosh.wav
